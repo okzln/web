@@ -1,0 +1,65 @@
+html, body {
+    height: 100%;
+}
+#wrap {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 100vh;
+    background-color: lavenderblush;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#accordionExample {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+.spinner-border {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 1%;
+}
+
+p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 1%;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.press {
+    border-radius: 60%;
+    width: 20%;
+    height: 50px;
+    border: none;
+    background-color: hotpink;
+    font-size: 20px;
+    font-weight: bold;
+    color: ivory;
+    display: flex;
+    margin: auto;
+    margin-top: 1%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
